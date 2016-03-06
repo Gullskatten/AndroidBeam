@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AndroidBeam</string>
+    <string name="beam_txt">Tap to Beam!</string>
+    <string name="edt_hint_write_something"><![CDATA[<Write something interesting..>]]></string>
+    <string name="placeholder_output_beam">Text sent from other device will appear here.</string>
 </resources>
